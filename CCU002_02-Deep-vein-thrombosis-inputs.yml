@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ccu002_02-deep-vein-thrombosis-dvt-pregnancy---secondary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-deep-vein-thrombosis-dvt---secondary.py
+inputModule4:
+  class: File
+  path: python/other-ccu002_02-deep-vein-thrombosis-dvt---secondary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-deep-vein-thrombosis-dvt-buddchiari---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_02-deep-vein-thrombosis-dvt-embolism---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu002_02-deep-vein-thrombosis-dvt-thrombophlebitis---secondary.py
+inputModule8:
+  class: File
+  path: python/intracranial-ccu002_02-deep-vein-thrombosis-dvt---secondary.py
+inputModule9:
+  class: File
+  path: python/ccu002_02-deep-vein-thrombosis-dvt-infarction---secondary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
